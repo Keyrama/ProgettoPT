@@ -1,0 +1,4 @@
+database(): impsdb
+version(): 11.8.6-MariaDB-0+deb13u1 from Debian
+users (username:md5):
+botto.ieri:7c6a180b36896a0a8c02787eeafb0e4c|tizio.incognito:5ebe2294ecd0e0f08eab7690d2a6ee69|jackOfspade:617882784af86bff022c4b57a62c807b|gallera:f683b93498a0e54122377576beb026c5|agentX:b20e0aaa66fdd9a7a5b2ebf49d32b91b|utente:bed128365216c019988915ed3add75fb|sysadmin:fcea920f7412b5da7be0cf42b8c93759|user:e10adc3949ba59abbe56e057f20f883e
